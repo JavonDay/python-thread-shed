@@ -1,1 +1,171 @@
-<html><head></head><body style="overflow-wrap: break-word; -webkit-nbsp-mode: space; line-break: after-white-space;"><div>daily_sales = \</div><div>"""Edith Mcbride &nbsp; ;,;$1.21 &nbsp; ;,; &nbsp; white ;,;&nbsp;</div><div>09/15/17 &nbsp; ,Herbert Tran &nbsp; ;,; &nbsp; $7.29;,;&nbsp;</div><div>white&amp;blue;,; &nbsp; 09/15/17 ,Paul Clarke ;,;$12.52&nbsp;</div><div>;,; &nbsp; white&amp;blue ;,; 09/15/17 ,Lucille Caldwell &nbsp;&nbsp;</div><div>;,; &nbsp; $5.13 &nbsp; ;,; white &nbsp; ;,; 09/15/17,</div><div>Eduardo George &nbsp; ;,;$20.39;,; white&amp;yellow&nbsp;</div><div>;,;09/15/17 &nbsp; , &nbsp; Danny Mclaughlin;,;$30.82;,; &nbsp;&nbsp;</div><div>purple ;,;09/15/17 ,Stacy Vargas;,; $1.85 &nbsp; ;,;&nbsp;</div><div>purple&amp;yellow ;,;09/15/17, &nbsp; Shaun Brock;,;&nbsp;</div><div>$17.98;,;purple&amp;yellow ;,; 09/15/17 ,&nbsp;</div><div>Erick Harper ;,;$17.41;,; blue ;,; 09/15/17,&nbsp;</div><div>Michelle Howell ;,;$28.59;,; blue;,; &nbsp; 09/15/17 &nbsp; ,&nbsp;</div><div>Carroll Boyd;,; $14.51;,; &nbsp; purple&amp;blue &nbsp; ;,; &nbsp;&nbsp;</div><div>09/15/17 &nbsp; , Teresa Carter &nbsp; ;,; $19.64 ;,;&nbsp;</div><div>white;,;09/15/17 &nbsp; , &nbsp; Jacob Kennedy ;,; $11.40 &nbsp;&nbsp;</div><div>;,; white&amp;red &nbsp; ;,; 09/15/17, Craig Chambers;,;&nbsp;</div><div>$8.79 ;,; white&amp;blue&amp;red &nbsp; ;,;09/15/17 &nbsp; , Peggy Bell;,; $8.65 ;,;blue &nbsp; ;,; 09/15/17, &nbsp; Kenneth Cunningham ;,; &nbsp; $10.53;,; &nbsp; green&amp;blue &nbsp; ;,;&nbsp;</div><div>09/15/17 &nbsp; , &nbsp; Marvin Morgan;,; &nbsp; $16.49;,;&nbsp;</div><div>green&amp;blue&amp;red &nbsp; ;,; &nbsp; 09/15/17 ,Marjorie Russell&nbsp;</div><div>;,; $6.55 ;,; &nbsp; green&amp;blue&amp;red;,; &nbsp; 09/15/17 ,</div><div>Israel Cummings;,; &nbsp; $11.86 &nbsp; ;,;black;,; &nbsp;</div><div>09/15/17, &nbsp; June Doyle &nbsp; ;,; &nbsp; $22.29 ;,; &nbsp;</div><div>black&amp;yellow ;,;09/15/17 , Jaime Buchanan &nbsp; ;,; &nbsp;&nbsp;</div><div>$8.35;,; &nbsp; white&amp;black&amp;yellow &nbsp; ;,; &nbsp; 09/15/17, &nbsp;&nbsp;</div><div>Rhonda Farmer;,;$2.91 ;,; &nbsp; white&amp;black&amp;yellow &nbsp;&nbsp;</div><div>;,;09/15/17, Darren Mckenzie ;,;$22.94;,;green&nbsp;</div><div>;,;09/15/17,Rufus Malone;,;$4.70 &nbsp; ;,; green&amp;yellow&nbsp;</div><div>;,; 09/15/17 &nbsp; ,Hubert Miles;,; &nbsp; $3.59 &nbsp;&nbsp;</div><div>;,;green&amp;yellow&amp;blue;,; &nbsp; 09/15/17 &nbsp; , Joseph Bridges &nbsp;;,;$5.66 &nbsp; ;,; green&amp;yellow&amp;purple&amp;blue&nbsp;</div><div>;,; &nbsp; 09/15/17 , Sergio Murphy &nbsp; ;,;$17.51 &nbsp; ;,; &nbsp;&nbsp;</div><div>black &nbsp; ;,; &nbsp; 09/15/17 , Audrey Ferguson ;,;&nbsp;</div><div>$5.54;,;black&amp;blue &nbsp; ;,;09/15/17 ,Edna Williams ;,;&nbsp;</div><div>$17.13;,; black&amp;blue;,; &nbsp; 09/15/17, &nbsp; Randy Fleming;,; &nbsp; $21.13 ;,;black ;,;09/15/17 ,Elisa Hart;,; $0.35 &nbsp; ;,; black&amp;purple;,; &nbsp; 09/15/17 &nbsp; ,</div><div>Ernesto Hunt ;,; $13.91 &nbsp; ;,; &nbsp; black&amp;purple ;,; &nbsp;&nbsp;</div><div>09/15/17, &nbsp; Shannon Chavez &nbsp; ;,;$19.26 &nbsp; ;,;&nbsp;</div><div>yellow;,; 09/15/17 &nbsp; , Sammy Cain;,; $5.45;,; &nbsp;&nbsp;</div><div>yellow&amp;red ;,;09/15/17 , &nbsp; Steven Reeves ;,;$5.50 &nbsp;&nbsp;</div><div>;,; &nbsp; yellow;,; &nbsp; 09/15/17, Ruben Jones &nbsp; ;,;&nbsp;</div><div>$14.56 ;,; &nbsp; yellow&amp;blue;,;09/15/17 , Essie Hansen;,; &nbsp; $7.33 &nbsp; ;,; &nbsp; yellow&amp;blue&amp;red</div><div>;,; 09/15/17 &nbsp; , &nbsp; Rene Hardy &nbsp; ;,; $20.22 &nbsp; ;,;&nbsp;</div><div>black ;,; &nbsp; 09/15/17 , &nbsp; Lucy Snyder &nbsp; ;,; $8.67 &nbsp;&nbsp;</div><div>;,;black&amp;red &nbsp;;,; 09/15/17 ,Dallas Obrien ;,; &nbsp;&nbsp;</div><div>$8.31;,; &nbsp; black&amp;red ;,; &nbsp; 09/15/17, &nbsp; Stacey Payne&nbsp;</div><div>;,; &nbsp; $15.70 &nbsp; ;,; &nbsp; white&amp;black&amp;red ;,;09/15/17 &nbsp;&nbsp;</div><div>, &nbsp; Tanya Cox &nbsp; ;,; &nbsp; $6.74 &nbsp; ;,;yellow &nbsp; ;,;&nbsp;</div><div>09/15/17 , Melody Moran ;,; &nbsp; $30.84 &nbsp;&nbsp;</div><div>;,;yellow&amp;black;,; &nbsp; 09/15/17 , Louise Becker &nbsp; ;,;&nbsp;</div><div>$12.31 ;,; green&amp;yellow&amp;black;,; &nbsp; 09/15/17 ,</div><div>Ryan Webster;,;$2.94 ;,; yellow ;,; 09/15/17&nbsp;</div><div>,Justin Blake ;,; $22.46 &nbsp; ;,;white&amp;yellow ;,; &nbsp;&nbsp;</div><div>09/15/17, &nbsp; Beverly Baldwin ;,; &nbsp; $6.60;,; &nbsp;&nbsp;</div><div>white&amp;yellow&amp;black ;,;09/15/17 &nbsp; , &nbsp; Dale Brady &nbsp;&nbsp;</div><div>;,; &nbsp; $6.27 ;,; yellow &nbsp; ;,;09/15/17 ,Guadalupe Potter ;,;$21.12 &nbsp; ;,; yellow;,; 09/15/17 &nbsp; ,&nbsp;</div><div>Desiree Butler ;,;$2.10 &nbsp; ;,;white;,; 09/15/17 &nbsp;</div><div>,Sonja Barnett ;,; $14.22 ;,;white&amp;black;,; &nbsp;&nbsp;</div><div>09/15/17, Angelica Garza;,;$11.60;,;white&amp;black &nbsp;&nbsp;</div><div>;,; &nbsp; 09/15/17 &nbsp; , &nbsp; Jamie Welch &nbsp; ;,; $25.27 &nbsp; ;,;&nbsp;</div><div>white&amp;black&amp;red ;,;09/15/17 &nbsp; , &nbsp; Rex Hudson &nbsp;&nbsp;</div><div>;,;$8.26;,; &nbsp; purple;,; 09/15/17 , &nbsp; Nadine Gibbs&nbsp;</div><div>;,; &nbsp; $30.80 ;,; &nbsp; purple&amp;yellow &nbsp; ;,; 09/15/17 &nbsp; ,&nbsp;</div><div>Hannah Pratt;,; &nbsp; $22.61 &nbsp; ;,; &nbsp; purple&amp;yellow &nbsp;&nbsp;</div><div>;,;09/15/17,Gayle Richards;,;$22.19 ;,;&nbsp;</div><div>green&amp;purple&amp;yellow ;,;09/15/17 &nbsp; ,Stanley Holland&nbsp;</div><div>;,; $7.47 &nbsp; ;,; red ;,; 09/15/17 , Anna Dean;,;$5.49 ;,; yellow&amp;red ;,; &nbsp; 09/15/17 &nbsp; ,</div><div>Terrance Saunders ;,; &nbsp; $23.70 &nbsp;;,;green&amp;yellow&amp;red&nbsp;</div><div>;,; 09/15/17 , &nbsp; Brandi Zimmerman ;,; $26.66 ;,;&nbsp;</div><div>red &nbsp; ;,;09/15/17 ,Guadalupe Freeman ;,; $25.95;,;&nbsp;</div><div>green&amp;red ;,; &nbsp; 09/15/17 &nbsp; ,Irving Patterson&nbsp;</div><div>;,;$19.55 ;,; green&amp;white&amp;red ;,; &nbsp; 09/15/17 ,Karl Ross;,; &nbsp; $15.68;,; &nbsp; white ;,; &nbsp; 09/15/17 , Brandy Cortez ;,;$23.57;,; &nbsp; white&amp;red &nbsp; ;,;09/15/17,&nbsp;</div><div>Mamie Riley &nbsp; ;,;$29.32;,; purple;,;09/15/17 ,Mike Thornton &nbsp; ;,; $26.44 ;,; &nbsp; purple &nbsp; ;,; 09/15/17,&nbsp;</div><div>Jamie Vaughn &nbsp; ;,; $17.24;,;green ;,; 09/15/17 &nbsp; ,&nbsp;</div><div>Noah Day ;,; &nbsp; $8.49 &nbsp; ;,;green &nbsp; ;,;09/15/17 &nbsp;&nbsp;</div><div>,Josephine Keller ;,;$13.10 ;,;green;,; &nbsp; 09/15/17 , &nbsp; Tracey Wolfe;,;$20.39 ;,; red &nbsp; ;,; 09/15/17 ,</div><div>Ignacio Parks;,;$14.70 &nbsp; ;,; white&amp;red ;,;09/15/17&nbsp;</div><div>, Beatrice Newman ;,;$22.45 &nbsp; ;,;white&amp;purple&amp;red&nbsp;</div><div>;,; &nbsp; 09/15/17, Andre Norris &nbsp; ;,; &nbsp; $28.46 &nbsp; ;,; &nbsp;&nbsp;</div><div>red;,; &nbsp; 09/15/17 , &nbsp; Albert Lewis ;,; $23.89;,; &nbsp;&nbsp;</div><div>black&amp;red;,; 09/15/17, &nbsp; Javier Bailey &nbsp; ;,; &nbsp;&nbsp;</div><div>$24.49 &nbsp; ;,; black&amp;red ;,; 09/15/17 &nbsp; , Everett Lyons ;,;$1.81;,; &nbsp; black&amp;red ;,; 09/15/17 , &nbsp;&nbsp;</div><div>Abraham Maxwell;,; $6.81 &nbsp; ;,;green;,; &nbsp; 09/15/17 &nbsp;&nbsp;</div><div>, &nbsp; Traci Craig ;,;$0.65;,; green&amp;yellow;,;&nbsp;</div><div>09/15/17 , Jeffrey Jenkins &nbsp; ;,;$26.45;,;&nbsp;</div><div>green&amp;yellow&amp;blue &nbsp; ;,; &nbsp; 09/15/17, &nbsp; Merle Wilson&nbsp;</div><div>;,; &nbsp; $7.69 ;,; purple;,; 09/15/17,Janis Franklin &nbsp;&nbsp;</div><div>;,;$8.74 &nbsp; ;,; purple&amp;black &nbsp; ;,;09/15/17 , &nbsp;</div><div>Leonard Guerrero ;,; &nbsp; $1.86 &nbsp; ;,;yellow &nbsp;</div><div>;,;09/15/17,Lana Sanchez;,;$14.75 &nbsp; ;,; yellow;,; &nbsp;&nbsp;</div><div>09/15/17 &nbsp; ,Donna Ball ;,; $28.10 &nbsp;;,;&nbsp;</div><div>yellow&amp;blue;,; &nbsp; 09/15/17 &nbsp; , Terrell Barber &nbsp; ;,;&nbsp;</div><div>$9.91 &nbsp; ;,; green ;,;09/15/17 &nbsp; ,Jody Flores;,;&nbsp;</div><div>$16.34 ;,; green ;,; &nbsp; 09/15/17, &nbsp; Daryl Herrera&nbsp;</div><div>;,;$27.57;,; white;,; &nbsp; 09/15/17 &nbsp; , Miguel Mcguire;,;$5.25;,; white&amp;blue &nbsp; ;,; &nbsp; 09/15/17 , &nbsp;&nbsp;</div><div>Rogelio Gonzalez;,; $9.51;,; &nbsp; white&amp;black&amp;blue &nbsp;&nbsp;</div><div>;,; &nbsp; 09/15/17 &nbsp; , &nbsp; Lora Hammond ;,;$20.56 ;,;&nbsp;</div><div>green;,; &nbsp; 09/15/17,Owen Ward;,; $21.64 &nbsp; ;,; &nbsp;&nbsp;</div><div>green&amp;yellow;,;09/15/17,Malcolm Morales ;,; &nbsp;&nbsp;</div><div>$24.99 &nbsp; ;,; &nbsp; green&amp;yellow&amp;black;,; 09/15/17 , &nbsp;&nbsp;</div><div>Eric Mcdaniel ;,;$29.70;,; green ;,; 09/15/17&nbsp;</div><div>,Madeline Estrada;,; &nbsp; $15.52;,;green;,; &nbsp; 09/15/17&nbsp;</div><div>, Leticia Manning;,;$15.70 ;,; green&amp;purple;,;&nbsp;</div><div>09/15/17 , &nbsp; Mario Wallace ;,; $12.36 ;,;green ;,;&nbsp;</div><div>09/15/17,Lewis Glover;,; &nbsp; $13.66 &nbsp; ;,; &nbsp;&nbsp;</div><div>green&amp;white;,;09/15/17, &nbsp; Gail Phelps &nbsp; ;,;$30.52 &nbsp;&nbsp;</div><div>;,; green&amp;white&amp;blue &nbsp; ;,; 09/15/17 , Myrtle Morris&nbsp;</div><div>;,; &nbsp; $22.66 &nbsp; ;,; green&amp;white&amp;blue;,;09/15/17"""</div><div><br></div><div>#------------------------------------------------</div><div># Start coding below!</div><div><br></div><div>daily_sales_replaced = daily_sales.replace(";,;", "+")</div><div>daily_transactions = daily_sales_replaced.split(",")</div><div>#print(daily_transactions)</div><div><br></div><div>daily_transactions_split = []</div><div>for transaction in daily_transactions:</div><div>&nbsp; daily_transactions_split.append(transaction.split("+"))</div><div>#print(daily_transactions_split)</div><div><br></div><div>transactions_clean = []</div><div>for transaction in daily_transactions_split:&nbsp;</div><div>&nbsp; transaction_clean = []</div><div>&nbsp; for data_point in transaction:</div><div>&nbsp; &nbsp;&nbsp;</div><div>&nbsp; &nbsp; transaction_clean.append(data_point.replace("\n", "").strip(" "))&nbsp;</div><div>&nbsp; transactions_clean.append(transaction_clean)</div><div>#print(transactions_clean)</div><div><br></div><div>customers = []</div><div>sales = []</div><div>thread_sold = []</div><div><br></div><div>for transaction in transactions_clean:</div><div>&nbsp; customers.append(transaction[0])</div><div>&nbsp; sales.append(transaction[1])</div><div>&nbsp; thread_sold.append(transaction[2])</div><div><br></div><div>#print(customers)</div><div>#print(sales)</div><div>#print(thread_sold)</div><div><br></div><div>total_sales = 0</div><div>for sale in sales:</div><div>&nbsp; total_sales += float(sale.strip("$"))</div><div>print(total_sales)</div><div><br></div><div>print(thread_sold)</div><div><br></div><div>thread_sold_split = []</div><div>for sale in thread_sold:</div><div>&nbsp; for color in sale.split("&amp;"):</div><div>&nbsp; &nbsp; thread_sold_split.append(color)</div><div><br></div><div>def color_count(color):</div><div>&nbsp; color_total = 0</div><div>&nbsp; for thread_color in thread_sold_split:</div><div>&nbsp; &nbsp; if color == thread_color:</div><div>&nbsp; &nbsp; &nbsp; color_total += 1</div><div>&nbsp; return color_total</div><div><br></div><div>print(color_count("white"))</div><div><br></div><div>colors = ['red', 'yellow', 'green', 'white', 'black', 'blue', 'purple']</div><div><br></div><div>for color in colors:</div><div>&nbsp; print(</div><div>&nbsp; &nbsp; "Thread shed sold {0} threads of {1} threads today.".format(color_count(color), color )</div><div>&nbsp; )</div><div><br></div><div><br></div><div><br></div></body></html>
+daily_sales = \
+"""Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
+09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
+white&blue;,;   09/15/17 ,Paul Clarke ;,;$12.52 
+;,;   white&blue ;,; 09/15/17 ,Lucille Caldwell   
+;,;   $5.13   ;,; white   ;,; 09/15/17,
+Eduardo George   ;,;$20.39;,; white&yellow 
+;,;09/15/17   ,   Danny Mclaughlin;,;$30.82;,;   
+purple ;,;09/15/17 ,Stacy Vargas;,; $1.85   ;,; 
+purple&yellow ;,;09/15/17,   Shaun Brock;,; 
+$17.98;,;purple&yellow ;,; 09/15/17 , 
+Erick Harper ;,;$17.41;,; blue ;,; 09/15/17, 
+Michelle Howell ;,;$28.59;,; blue;,;   09/15/17   , 
+Carroll Boyd;,; $14.51;,;   purple&blue   ;,;   
+09/15/17   , Teresa Carter   ;,; $19.64 ;,; 
+white;,;09/15/17   ,   Jacob Kennedy ;,; $11.40   
+;,; white&red   ;,; 09/15/17, Craig Chambers;,; 
+$8.79 ;,; white&blue&red   ;,;09/15/17   , Peggy Bell;,; $8.65 ;,;blue   ;,; 09/15/17,   Kenneth Cunningham ;,;   $10.53;,;   green&blue   ;,; 
+09/15/17   ,   Marvin Morgan;,;   $16.49;,; 
+green&blue&red   ;,;   09/15/17 ,Marjorie Russell 
+;,; $6.55 ;,;   green&blue&red;,;   09/15/17 ,
+Israel Cummings;,;   $11.86   ;,;black;,;  
+09/15/17,   June Doyle   ;,;   $22.29 ;,;  
+black&yellow ;,;09/15/17 , Jaime Buchanan   ;,;   
+$8.35;,;   white&black&yellow   ;,;   09/15/17,   
+Rhonda Farmer;,;$2.91 ;,;   white&black&yellow   
+;,;09/15/17, Darren Mckenzie ;,;$22.94;,;green 
+;,;09/15/17,Rufus Malone;,;$4.70   ;,; green&yellow 
+;,; 09/15/17   ,Hubert Miles;,;   $3.59   
+;,;green&yellow&blue;,;   09/15/17   , Joseph Bridges  ;,;$5.66   ;,; green&yellow&purple&blue 
+;,;   09/15/17 , Sergio Murphy   ;,;$17.51   ;,;   
+black   ;,;   09/15/17 , Audrey Ferguson ;,; 
+$5.54;,;black&blue   ;,;09/15/17 ,Edna Williams ;,; 
+$17.13;,; black&blue;,;   09/15/17,   Randy Fleming;,;   $21.13 ;,;black ;,;09/15/17 ,Elisa Hart;,; $0.35   ;,; black&purple;,;   09/15/17   ,
+Ernesto Hunt ;,; $13.91   ;,;   black&purple ;,;   
+09/15/17,   Shannon Chavez   ;,;$19.26   ;,; 
+yellow;,; 09/15/17   , Sammy Cain;,; $5.45;,;   
+yellow&red ;,;09/15/17 ,   Steven Reeves ;,;$5.50   
+;,;   yellow;,;   09/15/17, Ruben Jones   ;,; 
+$14.56 ;,;   yellow&blue;,;09/15/17 , Essie Hansen;,;   $7.33   ;,;   yellow&blue&red
+;,; 09/15/17   ,   Rene Hardy   ;,; $20.22   ;,; 
+black ;,;   09/15/17 ,   Lucy Snyder   ;,; $8.67   
+;,;black&red  ;,; 09/15/17 ,Dallas Obrien ;,;   
+$8.31;,;   black&red ;,;   09/15/17,   Stacey Payne 
+;,;   $15.70   ;,;   white&black&red ;,;09/15/17   
+,   Tanya Cox   ;,;   $6.74   ;,;yellow   ;,; 
+09/15/17 , Melody Moran ;,;   $30.84   
+;,;yellow&black;,;   09/15/17 , Louise Becker   ;,; 
+$12.31 ;,; green&yellow&black;,;   09/15/17 ,
+Ryan Webster;,;$2.94 ;,; yellow ;,; 09/15/17 
+,Justin Blake ;,; $22.46   ;,;white&yellow ;,;   
+09/15/17,   Beverly Baldwin ;,;   $6.60;,;   
+white&yellow&black ;,;09/15/17   ,   Dale Brady   
+;,;   $6.27 ;,; yellow   ;,;09/15/17 ,Guadalupe Potter ;,;$21.12   ;,; yellow;,; 09/15/17   , 
+Desiree Butler ;,;$2.10   ;,;white;,; 09/15/17  
+,Sonja Barnett ;,; $14.22 ;,;white&black;,;   
+09/15/17, Angelica Garza;,;$11.60;,;white&black   
+;,;   09/15/17   ,   Jamie Welch   ;,; $25.27   ;,; 
+white&black&red ;,;09/15/17   ,   Rex Hudson   
+;,;$8.26;,;   purple;,; 09/15/17 ,   Nadine Gibbs 
+;,;   $30.80 ;,;   purple&yellow   ;,; 09/15/17   , 
+Hannah Pratt;,;   $22.61   ;,;   purple&yellow   
+;,;09/15/17,Gayle Richards;,;$22.19 ;,; 
+green&purple&yellow ;,;09/15/17   ,Stanley Holland 
+;,; $7.47   ;,; red ;,; 09/15/17 , Anna Dean;,;$5.49 ;,; yellow&red ;,;   09/15/17   ,
+Terrance Saunders ;,;   $23.70  ;,;green&yellow&red 
+;,; 09/15/17 ,   Brandi Zimmerman ;,; $26.66 ;,; 
+red   ;,;09/15/17 ,Guadalupe Freeman ;,; $25.95;,; 
+green&red ;,;   09/15/17   ,Irving Patterson 
+;,;$19.55 ;,; green&white&red ;,;   09/15/17 ,Karl Ross;,;   $15.68;,;   white ;,;   09/15/17 , Brandy Cortez ;,;$23.57;,;   white&red   ;,;09/15/17, 
+Mamie Riley   ;,;$29.32;,; purple;,;09/15/17 ,Mike Thornton   ;,; $26.44 ;,;   purple   ;,; 09/15/17, 
+Jamie Vaughn   ;,; $17.24;,;green ;,; 09/15/17   , 
+Noah Day ;,;   $8.49   ;,;green   ;,;09/15/17   
+,Josephine Keller ;,;$13.10 ;,;green;,;   09/15/17 ,   Tracey Wolfe;,;$20.39 ;,; red   ;,; 09/15/17 ,
+Ignacio Parks;,;$14.70   ;,; white&red ;,;09/15/17 
+, Beatrice Newman ;,;$22.45   ;,;white&purple&red 
+;,;   09/15/17, Andre Norris   ;,;   $28.46   ;,;   
+red;,;   09/15/17 ,   Albert Lewis ;,; $23.89;,;   
+black&red;,; 09/15/17,   Javier Bailey   ;,;   
+$24.49   ;,; black&red ;,; 09/15/17   , Everett Lyons ;,;$1.81;,;   black&red ;,; 09/15/17 ,   
+Abraham Maxwell;,; $6.81   ;,;green;,;   09/15/17   
+,   Traci Craig ;,;$0.65;,; green&yellow;,; 
+09/15/17 , Jeffrey Jenkins   ;,;$26.45;,; 
+green&yellow&blue   ;,;   09/15/17,   Merle Wilson 
+;,;   $7.69 ;,; purple;,; 09/15/17,Janis Franklin   
+;,;$8.74   ;,; purple&black   ;,;09/15/17 ,  
+Leonard Guerrero ;,;   $1.86   ;,;yellow  
+;,;09/15/17,Lana Sanchez;,;$14.75   ;,; yellow;,;   
+09/15/17   ,Donna Ball ;,; $28.10  ;,; 
+yellow&blue;,;   09/15/17   , Terrell Barber   ;,; 
+$9.91   ;,; green ;,;09/15/17   ,Jody Flores;,; 
+$16.34 ;,; green ;,;   09/15/17,   Daryl Herrera 
+;,;$27.57;,; white;,;   09/15/17   , Miguel Mcguire;,;$5.25;,; white&blue   ;,;   09/15/17 ,   
+Rogelio Gonzalez;,; $9.51;,;   white&black&blue   
+;,;   09/15/17   ,   Lora Hammond ;,;$20.56 ;,; 
+green;,;   09/15/17,Owen Ward;,; $21.64   ;,;   
+green&yellow;,;09/15/17,Malcolm Morales ;,;   
+$24.99   ;,;   green&yellow&black;,; 09/15/17 ,   
+Eric Mcdaniel ;,;$29.70;,; green ;,; 09/15/17 
+,Madeline Estrada;,;   $15.52;,;green;,;   09/15/17 
+, Leticia Manning;,;$15.70 ;,; green&purple;,; 
+09/15/17 ,   Mario Wallace ;,; $12.36 ;,;green ;,; 
+09/15/17,Lewis Glover;,;   $13.66   ;,;   
+green&white;,;09/15/17,   Gail Phelps   ;,;$30.52   
+;,; green&white&blue   ;,; 09/15/17 , Myrtle Morris 
+;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
+
+#------------------------------------------------
+# Start coding below!
+
+daily_sales_replaced = daily_sales.replace(";,;", "+")
+daily_transactions = daily_sales_replaced.split(",")
+#print(daily_transactions)
+
+daily_transactions_split = []
+for transaction in daily_transactions:
+  daily_transactions_split.append(transaction.split("+"))
+#print(daily_transactions_split)
+
+transactions_clean = []
+for transaction in daily_transactions_split: 
+  transaction_clean = []
+  for data_point in transaction:
+    
+    transaction_clean.append(data_point.replace("\n", "").strip(" ")) 
+  transactions_clean.append(transaction_clean)
+#print(transactions_clean)
+
+customers = []
+sales = []
+thread_sold = []
+
+for transaction in transactions_clean:
+  customers.append(transaction[0])
+  sales.append(transaction[1])
+  thread_sold.append(transaction[2])
+
+#print(customers)
+#print(sales)
+#print(thread_sold)
+
+total_sales = 0
+for sale in sales:
+  total_sales += float(sale.strip("$"))
+print(total_sales)
+
+print(thread_sold)
+
+thread_sold_split = []
+for sale in thread_sold:
+  for color in sale.split("&"):
+    thread_sold_split.append(color)
+
+def color_count(color):
+  color_total = 0
+  for thread_color in thread_sold_split:
+    if color == thread_color:
+      color_total += 1
+  return color_total
+
+print(color_count("white"))
+
+colors = ['red', 'yellow', 'green', 'white', 'black', 'blue', 'purple']
+
+for color in colors:
+  print(
+    "Thread shed sold {0} threads of {1} threads today.".format(color_count(color), color )
+  )
+
+
+
