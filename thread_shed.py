@@ -1,3 +1,15 @@
+"""
+Thread Shed - Transaction Parsing Script
+
+Parses and cleans raw transaction
+data from a delimiter heavy text 
+format.
+Demostrates string manipulation, 
+data cleaning, and basic parsing logic.
+
+Author: Javon Day
+"""
+
 daily_sales = \
 """Edith Mcbride   ;,;$1.21   ;,;   white ;,; 
 09/15/17   ,Herbert Tran   ;,;   $7.29;,; 
